@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(167, 82, 69);
+}
+.container-fluid{
+    background-color: rgb(221, 222, 223);
+}
+.container{
+    background-color: rgb(189, 55, 40);
+}
+.footer{
+    text-align: center;
+    background-color: rgb(212, 217, 223);
+}
+.offcanvas-body a:hover{
+    background-color: rgb(79, 80, 81);
+}
+.card-body{
+    background-color: antiquewhite;
+    height: 350px;
+}
+.col{
+    padding: 20px;
+}
+h2{
+    padding-top: 120px;
+}
+    
+
